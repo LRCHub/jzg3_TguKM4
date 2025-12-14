@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "赤いスイートピー",
+  "base_artist": "Seiko Matsuda",
+  "createdAt": "2025-12-14T13:51:32.610470Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "赤いスイートピー",
+      "artist": "徳永英明",
+      "has_synced": false,
+      "path": "select/01_赤いスイートピー_徳永英明.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "赤いスイートピー",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/02_赤いスイートピー_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "赤いスイートピー - English Version",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/03_赤いスイートピー_-_English_Version_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "赤いスイートピー",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/04_赤いスイートピー_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "赤いスイートピー",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/05_赤いスイートピー_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "赤いスイートピー",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/06_赤いスイートピー_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "赤いスイートピー [Red Sweet Pea]",
+      "artist": "松田聖子 (Seiko Matsuda)",
+      "has_synced": true,
+      "path": "select/07_赤いスイートピー_[Red_Sweet_Pea]_松田聖子_(Seiko_Matsuda).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "赤いスイートピー [オリジナル・カラオケ] {Red Sweet Pea} {Karaoke Version}",
+      "artist": "松田聖子 (Seiko Matsuda)",
+      "has_synced": true,
+      "path": "select/08_赤いスイートピー_[オリジナル・カラオケ]_{Red_Sweet_Pea}_{Karaoke_Version}_松田聖子_(Seiko_Matsuda).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "赤いスイートピー",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/09_赤いスイートピー_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "続・赤いスイートピー",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/10_続・赤いスイートピー_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "続･赤いスイートピー",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/11_続・赤いスイートピー_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "赤いスイートピー",
+      "artist": "赤夜萌香 (CV: 水樹奈々)",
+      "has_synced": false,
+      "path": "select/12_赤いスイートピー_赤夜萌香_(CV__水樹奈々).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "赤いスイートピー",
+      "artist": "松田 聖子",
+      "has_synced": false,
+      "path": "select/pl_01_赤いスイートピー_松田_聖子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "赤いスイートピー",
+      "artist": "松田 聖子",
+      "has_synced": false,
+      "path": "select/pl_02_赤いスイートピー_松田_聖子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "赤いスイートピー",
+      "artist": "松田 聖子",
+      "has_synced": false,
+      "path": "select/pl_03_赤いスイートピー_松田_聖子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "赤いスイートピー",
+      "artist": "松田 聖子",
+      "has_synced": false,
+      "path": "select/pl_04_赤いスイートピー_松田_聖子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "赤いスイートピー",
+      "artist": "松田 聖子",
+      "has_synced": false,
+      "path": "select/pl_05_赤いスイートピー_松田_聖子.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "赤いスイートピー",
+      "artist": "松田 聖子",
+      "has_synced": false,
+      "path": "select/pl_06_赤いスイートピー_松田_聖子.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "赤いスイートピー",
+      "artist": "松田 聖子",
+      "has_synced": false,
+      "path": "select/pl_07_赤いスイートピー_松田_聖子.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "赤いスイートピー",
+      "artist": "松田 聖子",
+      "has_synced": false,
+      "path": "select/pl_08_赤いスイートピー_松田_聖子.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "赤いスイートピー",
+      "artist": "松田 聖子",
+      "has_synced": false,
+      "path": "select/pl_09_赤いスイートピー_松田_聖子.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "赤いスイートピー",
+      "artist": "松田 聖子",
+      "has_synced": false,
+      "path": "select/pl_10_赤いスイートピー_松田_聖子.txt"
+    }
+  ]
+}
